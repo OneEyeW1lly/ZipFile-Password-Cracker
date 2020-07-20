@@ -3,8 +3,8 @@
 # INSTALL:
 
 - First install python3.8 or higher at www.python.org
-
-- once complete run this command in the command-line:
+- Then Download this zip (Don't worry it doesnt have a password)
+- once complete run the commands below in the command-line
 
 ### WINDOWS:
 ```python
