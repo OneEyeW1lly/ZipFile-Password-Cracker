@@ -6,11 +6,11 @@
 - Then Download this zip (Don't worry it doesnt have a password)
 - once completed run the commands below in the command-line
 
-### WINDOWS:
+### WINDOWS INSTALL:
 ```python
 $ pip install -r REQUIREMENTS.txt
 ```
-### LINUX/MAC:
+### LINUX/MAC INSTALL:
 ```python
 $ pip3 install -r REQUIREMENTS.txt
 ```
