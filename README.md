@@ -7,10 +7,10 @@
 - once complete run this command in the command-line:
 
 ## WINDOWS:
-'''python
+```python
 $ pip install -r REQUIREMENTS.txt
-'''
+```
 ## LINUX/MAC:
-'''python
+```python
 $ pip3 install -r REQUIREMENTS.txt
-'''
+```
