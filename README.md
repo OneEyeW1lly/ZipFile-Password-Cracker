@@ -15,7 +15,7 @@ $ pip install -r REQUIREMENTS.txt
 $ pip3 install -r REQUIREMENTS.txt
 ```
 # RUN
-- cd into 
+- cd into ZipFile-Password-Cracker-master
 
 Then run
 ```python
