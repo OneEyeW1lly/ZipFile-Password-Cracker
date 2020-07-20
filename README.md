@@ -1,6 +1,6 @@
 ## Zipfile brute-force password cracker that uses python3.8 and above
 
-# INSTALL:
+## INSTALL:
 
 - First install python3.8 or higher at www.python.org
 - Then Download this zip (Don't worry it doesnt have a password)
@@ -14,7 +14,7 @@ $ pip install -r REQUIREMENTS.txt
 ```python
 $ pip3 install -r REQUIREMENTS.txt
 ```
-# TO RUN
+### RUN
 - cd into ZipFile-Password-Cracker-master
 
 Then run:
