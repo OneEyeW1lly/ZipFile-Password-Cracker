@@ -4,7 +4,7 @@
 
 - First install python3.8 or higher at www.python.org
 - Then Download this zip (Don't worry it doesnt have a password)
-- once complete run the commands below in the command-line
+- once completed run the commands below in the command-line
 
 ### WINDOWS:
 ```python
@@ -14,7 +14,7 @@ $ pip install -r REQUIREMENTS.txt
 ```python
 $ pip3 install -r REQUIREMENTS.txt
 ```
-# RUN
+# TO RUN
 - cd into ZipFile-Password-Cracker-master
 
 Then run:
