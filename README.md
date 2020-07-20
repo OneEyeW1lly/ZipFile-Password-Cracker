@@ -17,7 +17,7 @@ $ pip3 install -r REQUIREMENTS.txt
 # RUN
 - cd into ZipFile-Password-Cracker-master
 
-Then run
+Then run:
 ```python
 $ python3 ZipMaster.py
 ```
