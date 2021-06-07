@@ -1,8 +1,5 @@
-# MAKE SURE YOU HAVE THE LATEST PYTHON INSTALLED
-
-# AND RUN THIS COMMAND:
-#   LINUX: pip3 install zipfile
-#   WINDOWS: pip install zipfile
+# THIS REPOSITORY IS VERY OLD AND IS FULL OF MISTAKES
+# I WILL UPDATE THIS SOON
 
 '''imports'''
 import zipfile # make sure to install this module 
